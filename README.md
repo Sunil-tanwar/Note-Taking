@@ -1,2 +1,4 @@
-# Note-Taking
-It provides a user-friendly interface where users can quickly write down important ideas, reminders, tasks, or information and access them anytime.
+# myNotes
+This is a note making website which store data in local storage .
+
+Here , You can use this web Application [live Demo](https://rocksaini.github.io/myNotes/)
